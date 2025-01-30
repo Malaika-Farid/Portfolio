@@ -78,5 +78,5 @@ function fadeIn(el, display) {
 };
 
 function openPDF() {
-    window.open('path/to/yourfile.pdf', '_blank'); // Change the path to your PDF file
+    window.open('assets\CANDYSHOP_USER_MANUAL.pdf', '_blank'); // Change the path to your PDF file
 };
